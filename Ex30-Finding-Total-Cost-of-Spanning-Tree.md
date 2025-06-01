@@ -15,8 +15,8 @@ To write a C Program to implement Prim's Algorithm for finding Total Cost of spa
 ```
 
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: ROGITH K
-RegisterNumber: 212223110042
+Developed by: S Mohamed Ahsan
+RegisterNumber:  212223240089
 
 
 #include<stdio.h>
